@@ -1,0 +1,6 @@
+{
+  "name": "이미지 데이터 처리 실험실",
+  "description": "픽셀에서 행렬로, 행렬에서 이미지로 — 고등학교 인공지능수학 수행평가용 이미지 데이터 처리 실험실",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
